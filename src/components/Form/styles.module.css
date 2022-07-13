@@ -1,0 +1,9 @@
+.form_group {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.form_group > div {
+  width: 100%;
+}
